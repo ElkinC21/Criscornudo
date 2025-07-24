@@ -15,6 +15,12 @@ public class Angielovu {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        for (int i = 1; i < 101; i++) {
+            System.out.print("67 ");
+            if(i % 10 == 0) {
+                System.out.println("");
+            }
+        }
     }
     
 }
