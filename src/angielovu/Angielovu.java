@@ -19,6 +19,7 @@ public class Angielovu {
             System.out.print("67 ");
             if(i % 10 == 0) {
                 System.out.println("");
+                System.out.println("MARIA te amo");
             }
         }
     }
